@@ -36,11 +36,11 @@ With Andrew W.Trask's book called Grokking Deep Learning, I typed the code with 
 ### Built With
 
 Base on python/keras
-* [python](https://doc.qt.io/)
-* [acconda3](http://www.cplusplus.com/)
-* [numpy](http://www.cplusplus.com/)
-* [Tensorflow](http://www.cplusplus.com/)
-* [keras](http://www.cplusplus.com/)
+* [python](https://docs.python.org/3.7/)
+* [acconda3](https://www.anaconda.com/)
+* [numpy](https://numpy.org/doc/stable/)
+* [Tensorflow](https://github.com/tensorflow)
+* [keras](https://keras.io/guides/)
 
 
 
